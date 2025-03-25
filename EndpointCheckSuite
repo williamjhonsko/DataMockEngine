@@ -1,0 +1,15 @@
+
+---
+
+### **2. 26_EndpointCheckSuite**  
+**Description:**  
+A utility to test the availability and latency of HTTP endpoints.
+
+#### **README.md**
+```markdown
+# EndpointCheckSuite - HTTP Response Checker
+
+EndpointCheckSuite monitors the health of multiple APIs by logging status codes and response times.
+
+## Features
+- Multi-endpoint tracking  
