@@ -1,0 +1,23 @@
+
+---
+
+### **3. 26_LogPatternExplorer**  
+**Description:**  
+Analyzes log files and finds repeating errors or anomalies over time.
+
+#### **README.md**
+```markdown
+# LogPatternExplorer - Log Analyzer Tool
+
+LogPatternExplorer highlights recurring issues in large log files by grouping similar lines and showing frequencies.
+
+## Features
+- Frequency summary  
+- Works on large logs  
+- Supports keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_LogPatternExplorer.git
+cd 26_LogPatternExplorer
+python analyze.py /var/log/syslog
