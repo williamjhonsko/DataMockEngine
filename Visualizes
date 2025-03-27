@@ -1,0 +1,23 @@
+
+---
+
+### **4. 26_RealTimePlotView**  
+**Description:**  
+Visualizes streaming numeric data in a live-updating line chart.
+
+#### **README.md**
+```markdown
+# RealTimePlotView - Live Data Visualizer
+
+RealTimePlotView is perfect for monitoring simulations, sensors, or API metrics in real time.
+
+## Features
+- Smooth line updates  
+- Adjustable update interval  
+- Simple to integrate  
+
+## Usage
+```bash
+git clone https://github.com/your-username/26_RealTimePlotView.git
+cd 26_RealTimePlotView
+python visualize.py
